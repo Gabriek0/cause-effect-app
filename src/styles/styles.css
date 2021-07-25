@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.name {
+  cursor: pointer;
+  width: 60px;
+}
+
+.allPeoples {
+  padding: 0 auto;
+}
