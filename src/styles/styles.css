@@ -1,13 +1,118 @@
 * {
-  padding: 0;
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Roboto;
 }
 
-.name {
+h1 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.mainContainer {
+  margin: auto;
+  margin-top: 40px;
+  background-color: #959595;
+  width: 700px;
+  height: 500px;
+  border-radius: 15px;
+  overflow-y: hidden;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+.informationsContainer {
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.shortNameContainer {
+  margin-top: 15px;
   cursor: pointer;
-  width: 60px;
+  position: relative;
+  left: 90px;
+  height: auto;
+  width: 150px;
 }
 
-.allPeoples {
-  padding: 0 auto;
+.shortNameContainer:hover {
+  color: #252525;
+}
+
+.shortName {
+  position: relative;
+  left: 15px;
+  margin-left: 5px;
+}
+
+.rightArrow {
+  position: relative;
+  top: -16px;
+  width: 15px;
+}
+
+.rightArrow:hover {
+  color: #252525;
+}
+
+.peopleDetails {
+  font-weight: 600;
+  color: #3D3D3D;
+  width: 300px;
+  position: relative;
+  left: 100px;
+}
+
+.info {
+  display: inline;
+}
+
+.infoTitle {
+  display: inline;
+  color: black;
+}
+
+.info {
+  padding-top: 5px;
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+  height: 10px;
+  }
+
+::-webkit-scrollbar-thumb{
+  background: #B3AFB3;
+  border-radius: 15px;  
+}
+
+::-webkit-scrollbar-track{
+  background: #F0F0F0;
+  }
+
+@keyframes move {
+  from {
+    opacity: 0;
+    transform: translateX(-25%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+}
+
+@keyframes toRecall {
+  from {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+
+  to {
+    opacity: -5;
+    transform: translateX(-25%);
+  }
 }
