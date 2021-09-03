@@ -30,6 +30,6 @@
  👤 **Gabriel Henrique**
 
   - Github: [@Gabriek0](https://github.com/Gabriek0)
-- LinkedIn: [@gabriel-henrique-664bb219a](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
+  - LinkedIn: [@gabriel-henrique-664bb219a](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
 
 ### 📜 Licença
