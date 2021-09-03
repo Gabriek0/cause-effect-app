@@ -19,9 +19,10 @@ h1 {
   width: 700px;
   height: 500px;
   border-radius: 15px;
-  overflow-y: hidden;
-  overflow: scroll;
+  padding-right: 70px;
+  overflow: hidden;
   overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 .informationsContainer {
@@ -78,20 +79,19 @@ h1 {
 .info {
   padding-top: 5px;
 }
-
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   width: 10px;
   height: 10px;
-  }
+}
 
 ::-webkit-scrollbar-thumb{
   background: #B3AFB3;
-  border-radius: 15px;  
 }
 
 ::-webkit-scrollbar-track{
   background: #F0F0F0;
   }
+
 
 @keyframes move {
   from {

@@ -48,7 +48,7 @@ const peoples = [
 
 peoples.map(people => {
   const rightArrow = document.createElement('img');
-  rightArrow.src = './img/right-arrow.png';
+  rightArrow.src = './src/img/right-arrow.png';
   rightArrow.className = 'rightArrow';
 
   //Personal containers
@@ -136,7 +136,7 @@ peoples.map(people => {
     if (peopleDetails.style.display === 'none') {
       peopleDetails.style.display = 'block';
       peopleDetails.style.animation = 'move 0.5s'
-      rightArrow.src = './img/arrow-down.png';
+      rightArrow.src = './src/img/arrow-down.png';
 
     }
     else {
@@ -144,7 +144,7 @@ peoples.map(people => {
 
       setTimeout(() => {
         peopleDetails.style.display = 'none';
-        rightArrow.src = './img/right-arrow.png';
+        rightArrow.src = './src/img/right-arrow.png';
 
       }, 300)
     }
