@@ -1,9 +1,5 @@
 <h1 align="center"> Cause Effect App 🖱️ </h1>
 
-<p align="center"> 
-  <img src="/home/gabrielh/Documentos/Codes/Projects/cause-effect-app/src/img/cause-effect-app.gif">
-</p>
-
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,6 +7,14 @@
   <a href="#%EF%B8%8F--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licen%C3%A7a">Licença</a>
 </p>
+
+</br>
+
+<p align="center"> 
+  <img src="src/img/cause-effect-app.gif">
+</p>
+
+</br>
 
 ### 💡 Projeto
 
