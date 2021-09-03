@@ -1,5 +1,9 @@
 <h1 align="center"> Cause Effect App 🖱️ </h1>
 
+<p align="center"> 
+  <img src="/home/gabrielh/Documentos/Codes/Projects/cause-effect-app/src/img/cause-effect-app.gif">
+</p>
+
 <p align="center">
   <a href="Sobre-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
