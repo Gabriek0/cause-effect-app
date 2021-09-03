@@ -33,3 +33,4 @@
   - LinkedIn: [@gabriel-henrique-664bb219a](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
 
 ### 📜 Licença
+[![NPM](/github/license/:user/:repo) (https://github.com/Gabriek0/cause-effect-app/blob/main/LICENSE)
