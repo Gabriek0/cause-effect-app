@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="Sobre-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licen%C3%A7a">Licença</a>
 </p>
 
 ### 💡 Projeto
@@ -23,17 +23,18 @@
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 
-### 🔨 Funcionalidades
+### 🔨  Funcionalidades
  - [x] O usuário pode ver uma lista de nomes de pessoas organizados verticalmente em um painel de resumo na página.
  - [x] O usuário pode clicar em um nome na lista para atualizar um painel adjacente na página com o nome completo, endereço, número de telefone e aniversário desse indivíduo.
  - [x] O usuário pode clicar em outro nome na lista para atualizar o painel de detalhes com as informações desse indivíduo.
 
 
-###  Autor
+### ✒️  Autor
 
  👤 **Gabriel Henrique**
 
   - Github: [@Gabriek0](https://github.com/Gabriek0)
-- LinkedIn: [@gabriel-henrique-664bb219a](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
+  - LinkedIn: [@gabriel-henrique-664bb219a](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
 
 ### 📜 Licença
+- [![NPM](https://img.shields.io/github/license/Gabriek0/cause-effect-app)](https://github.com/Gabriek0/cause-effect-app/blob/main/LICENSE)
